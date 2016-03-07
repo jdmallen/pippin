@@ -1,0 +1,4 @@
+load %12
+mul %3
+store 6
+halt

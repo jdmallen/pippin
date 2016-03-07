@@ -1,0 +1,13 @@
+load 1
+mul %2
+store 1
+load 0
+sub 1
+store 1
+cmpl 1
+not
+store 2
+halt
+----
+36
+20
